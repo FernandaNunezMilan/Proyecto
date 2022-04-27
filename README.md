@@ -1,6 +1,3 @@
-# Carousel de Películas Estilo NETFLIX con HTML5, CSS3 y Javascript.
-### [Tutorial: https://youtu.be/1ukG4FTmdWQ](https://youtu.be/1ukG4FTmdWQ)
+# Reporte del proyecto versión 1: Plataforma para tutoriales escolares (Tipo Netflix) 
 
-![Carousel de Películas Estilo NETFLIX con HTML5, CSS3 y Javascript.](https://raw.githubusercontent.com/falconmasters/p-gina-estilo-netflix/carousel/img/thumb.png)
-
-Por: [FalconMasters](http://www.falconmasters.com)
+### [Link del prototipo: https://fernandanunezmilan.github.io/Proyecto/](https://fernandanunezmilan.github.io/Proyecto/)
